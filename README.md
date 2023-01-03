@@ -1,5 +1,4 @@
 # devops-practice2
-New partice reop files 2
-new line 3
-
-new 4 
+Shell scripting ::
+1.printing
+2.loops
