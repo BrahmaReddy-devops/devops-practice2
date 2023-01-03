@@ -8,3 +8,8 @@ echo -e "\e[31mMessege\e[0m"
 echo -e "\e[32mMessege\e[0m"
 echo -e "\e[33mMessege\e[0m"
 echo -e "\e[34mMessege\e[0m"
+
+abc=brahma
+xyz=srinu
+echo triner name - $abc
+echo triner name- $xyz
