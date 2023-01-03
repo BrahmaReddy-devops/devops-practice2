@@ -12,3 +12,5 @@ Shell scripting ::
 5.loops (l)
 
 6.exit status
+
+new line
